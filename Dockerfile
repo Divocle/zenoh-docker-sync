@@ -1,2 +1,1 @@
-FROM zenoh/zenoh:latest
-
+FROM ghcr.io/eclipse-zenoh/zenoh:latest
