@@ -1,1 +1,1 @@
-FROM ghcr.io/eclipse-zenoh/zenoh:latest
+FROM docker.io/zenoh/zenoh:latest
